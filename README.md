@@ -1,7 +1,4 @@
-# Welcome to Your Miaoda Project
-Miaoda Application Link URL
-    URL:https://medo.dev/projects/app-8984111omept
-
+# Welcome to  Project
 # Smart FAQ Bot
 
 An intelligent FAQ system powered by Retrieval-Augmented Generation (RAG) that provides accurate, context-aware answers to user questions using AI.
@@ -25,7 +22,7 @@ An intelligent FAQ system powered by Retrieval-Augmented Generation (RAG) that p
 
 1. **Install Dependencies**
    ```bash
-   pnpm install
+   npm install
    ```
 
 2. **Environment Configuration**
@@ -48,12 +45,12 @@ An intelligent FAQ system powered by Retrieval-Augmented Generation (RAG) that p
 
 3. **Start Development**
    ```bash
-   pnpm run dev
+   npm run dev
    ```
 
 4. **Validate Build**
    ```bash
-   pnpm run lint
+   npm run lint
    ```
 
 ## API Configuration
@@ -162,10 +159,3 @@ Alternatively, use the official installer: Visit the Node.js official website. D
 # Step 6: if step 5 failed, try this command to start the development server: npx vite --host 127.0.0.1
 ```
 
-### How to develop backend services?
-
-Configure environment variables and install relevant dependencies.If you need to use a database, please use the official version of Supabase.
-
-## Learn More
-
-You can also check the help documentation: Download and Building the app（ [https://intl.cloud.baidu.com/en/doc/MIAODA/s/download-and-building-the-app-en](https://intl.cloud.baidu.com/en/doc/MIAODA/s/download-and-building-the-app-en)）to learn more detailed content.
