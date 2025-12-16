@@ -3,6 +3,11 @@
 
 An intelligent FAQ system powered by Retrieval-Augmented Generation (RAG) that provides accurate, context-aware answers to user questions using AI.
 
+
+https://github.com/user-attachments/assets/fa11e840-1492-479c-91f8-0009cd848cc3
+
+
+
 ## Features
 
 - **Intelligent Question Answering**: Ask questions in natural language and receive accurate answers
