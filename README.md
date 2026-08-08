@@ -1,5 +1,5 @@
 # Welcome to  Project
-# Smart FAQ Bot
+# AI Based Smart FAQ Bot
 
 An intelligent FAQ system powered by Retrieval-Augmented Generation (RAG) that provides accurate, context-aware answers to user questions using AI.
 
